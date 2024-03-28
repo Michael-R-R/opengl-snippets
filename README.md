@@ -1,2 +1,2 @@
-# opengl-snippets
-OpenGL snippets
+# Description
+OpenGL snippets for reference use.
